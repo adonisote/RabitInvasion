@@ -3,3 +3,8 @@
 
 #do not track the virtual environment
 venv/
+
+.DS_Store
+
+
+__pycache__/settings.cpython-311.pyc
